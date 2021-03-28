@@ -5,7 +5,7 @@ date:   2021-03-28 20:22:53 +0900
 categories: posts 
 ---
 
-![The Frog Tsarevna by Ivan Bilibin](/gamedesign/assets/img/bilibin_frog_princess.jpeg)
+![The Frog Tsarevna by Ivan Bilibin](/game-design-journey/assets/img/bilibin_frog_princess.jpeg)
 
 *The Frog Tsarevna by Ivan Bilibin*
 
